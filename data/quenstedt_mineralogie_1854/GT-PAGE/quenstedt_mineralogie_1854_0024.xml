@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:35</Created>
+	<LastChange>2019-03-12T13:49:36</LastChange></Metadata>
+	<Page imageFilename="quenstedt_mineralogie_1854_0024.jpg" imageWidth="2010" imageHeight="2657" type="content">
+	<PrintSpace>
+	<Coords points="1996,2574 1996,64 412,64 412,2574"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="1062,168 1431,168 1431,240 1062,240"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="582,180 681,180 681,249 582,249"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="594,762 1329,762 1329,1599 594,1599"/></GraphicRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1956,258 1956,699 1898,699 1898,700 1783,700 1783,701 1668,701 1668,702 1554,702 1554,703 1439,703 1439,704 1324,704 1324,705 1209,705 1209,706 1094,706 1094,707 979,707 979,708 865,708 865,709 750,709 750,710 635,710 635,711 578,711 578,258"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1956,701 1956,2457 578,2457 578,713 636,713 636,712 751,712 751,711 866,711 866,710 980,710 980,709 1095,709 1095,708 1210,708 1210,707 1325,707 1325,706 1440,706 1440,705 1555,705 1555,704 1669,704 1669,703 1784,703 1784,702 1899,702 1899,701"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

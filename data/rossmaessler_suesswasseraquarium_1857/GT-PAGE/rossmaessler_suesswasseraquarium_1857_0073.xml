@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:41</Created>
+	<LastChange>2019-03-05T16:24:12</LastChange></Metadata>
+	<Page imageFilename="rossmaessler_suesswasseraquarium_1857_0073.jpg" imageWidth="2123" imageHeight="2950" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="caption">
+	<Coords points="830,663 992,663 992,738 830,738"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="caption">
+	<Coords points="256,2003 1568,2003 1568,2174 256,2174"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r0">
+	<Coords points="1360,2000 1360,707 525,707 525,2000"/></GraphicRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="1532,478 1532,435 1446,435 1446,478"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="header">
+	<Coords points="1150,478 1150,435 678,435 678,478"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1542,653 1542,517 292,517 292,653"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1553,2435 1553,2192 314,2192 314,2435"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

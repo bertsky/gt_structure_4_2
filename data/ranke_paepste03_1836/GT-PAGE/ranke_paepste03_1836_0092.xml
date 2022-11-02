@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:53</Created>
+	<LastChange>2019-03-12T13:45:39</LastChange></Metadata>
+	<Page imageFilename="ranke_paepste03_1836_0092.jpg" imageWidth="1918" imageHeight="2748" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="catch-word">
+	<Coords points="1733,1706 1838,1706 1838,1756 1733,1756"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="866,463 866,420 790,420 790,463"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1843,486 1843,413 896,413 896,486"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1833,1703 1833,490 776,490 776,1703"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1835,1756 1835,2075 1653,2075 1653,2074 1288,2074 1288,2073 923,2073 923,2072 740,2072 740,1756"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="922,2074 922,2075 1287,2075 1287,2076 1652,2076 1652,2077 1835,2077 1835,2339 740,2339 740,2074"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

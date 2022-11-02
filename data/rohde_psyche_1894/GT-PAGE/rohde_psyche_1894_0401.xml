@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:35</Created>
+	<LastChange>2019-03-05T16:20:15</LastChange></Metadata>
+	<Page imageFilename="rohde_psyche_1894_0401.jpg" imageWidth="2357" imageHeight="3053" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_4" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="120,666 1349,666 1349,1683 120,1683"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="80,1683 1352,1683 1352,2592 80,2592"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="1040,2590 1139,2590 1139,2655 1040,2655"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="762,537 762,466 677,466 677,537"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1362,666 1362,518 81,518 81,666"/>
+	<SeparatorRegion id="r2">
+	<Coords points="500,681 500,625 144,625 144,681"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

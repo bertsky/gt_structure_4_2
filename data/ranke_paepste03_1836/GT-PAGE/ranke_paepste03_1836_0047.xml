@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:53</Created>
+	<LastChange>2019-03-12T13:46:49</LastChange></Metadata>
+	<Page imageFilename="ranke_paepste03_1836_0047.jpg" imageWidth="1919" imageHeight="2748" type="content">
+	<PrintSpace>
+	<Coords points="1386,2606 1386,226 0,226 0,2606"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/>
+	<RegionRefIndexed regionRef="region_3" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="40,1640 1199,1640 1199,1866 40,1866"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="823,2323 925,2323 925,2401 823,2401"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1146,500 1146,443 1036,443 1036,500"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="780,503 780,426 390,426 390,503"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1123,1643 1123,523 96,523 96,1643"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1188,1863 1188,2175 1130,2175 1130,2176 1016,2176 1016,2177 901,2177 901,2178 787,2178 787,2179 672,2179 672,2180 558,2180 558,2181 443,2181 443,2182 329,2182 329,2183 214,2183 214,2184 100,2184 100,2185 43,2185 43,1863"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="1188,2177 1188,2323 43,2323 43,2187 101,2187 101,2186 215,2186 215,2185 330,2185 330,2184 444,2184 444,2183 559,2183 559,2182 673,2182 673,2181 788,2181 788,2180 902,2180 902,2179 1017,2179 1017,2178 1131,2178 1131,2177"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

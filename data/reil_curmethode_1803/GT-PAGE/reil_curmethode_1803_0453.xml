@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:08</Created>
+	<LastChange>2019-03-05T16:07:58</LastChange></Metadata>
+	<Page imageFilename="reil_curmethode_1803_0453.jpg" imageWidth="1688" imageHeight="2568" type="content">
+	<PrintSpace>
+	<Coords points="1687,2378 1687,143 478,143 478,2378"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="catch-word">
+	<Coords points="1483,423 1665,423 1665,488 1483,488"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote-continued">
+	<Coords points="723,523 1682,523 1682,2122 723,2122"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1573,2120 1672,2120 1672,2192 1573,2192"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="765,268 765,196 625,196 625,268"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1653,434 1653,300 662,300 662,434"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

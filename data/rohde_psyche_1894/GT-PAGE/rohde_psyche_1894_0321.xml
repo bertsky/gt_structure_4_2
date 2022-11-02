@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:35</Created>
+	<LastChange>2019-03-05T16:19:13</LastChange></Metadata>
+	<Page imageFilename="rohde_psyche_1894_0321.jpg" imageWidth="2357" imageHeight="3053" type="content">
+	<PrintSpace>
+	<Coords points="1637,2814 1637,296 77,296 77,2814"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="116,663 1381,663 1381,1181 116,1181"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="86,1179 1371,1179 1371,2589 86,2589"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="153,2556 443,2556 443,2646 153,2646"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="signature-mark">
+	<Coords points="1066,2596 1138,2596 1138,2666 1066,2666"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="777,525 777,474 681,474 681,525"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="477,696 477,622 144,622 144,696"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1366,674 1366,514 92,514 92,674"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

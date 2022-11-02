@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:53</Created>
+	<LastChange>2019-03-12T13:46:12</LastChange></Metadata>
+	<Page imageFilename="ranke_paepste03_1836_0086.jpg" imageWidth="1918" imageHeight="2748" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r7" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="696,1696 1818,1696 1818,1988 696,1988"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1810,480 1810,410 826,410 826,480"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="810,476 810,410 753,410 753,476"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1800,490 1800,679 730,679 730,490"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1800,681 1800,1683 730,1683 730,681"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords points="1816,1986 1816,2172 1760,2172 1760,2173 1648,2173 1648,2174 1536,2174 1536,2175 1424,2175 1424,2176 1312,2176 1312,2177 1200,2177 1200,2178 1088,2178 1088,2179 976,2179 976,2180 864,2180 864,2181 752,2181 752,2182 696,2182 696,1986"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote">
+	<Coords points="1816,2174 1816,2422 696,2422 696,2184 753,2184 753,2183 865,2183 865,2182 977,2182 977,2181 1089,2181 1089,2180 1201,2180 1201,2179 1313,2179 1313,2178 1425,2178 1425,2177 1537,2177 1537,2176 1649,2176 1649,2175 1761,2175 1761,2174"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

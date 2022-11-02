@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:57</Created>
+	<LastChange>2019-03-12T13:43:40</LastChange></Metadata>
+	<Page imageFilename="ranke_reformation02_1839_0308.jpg" imageWidth="1785" imageHeight="2717" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="653,1526 1778,1526 1778,1941 653,1941"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="653,1936 1778,1936 1778,2281 653,2281"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="header">
+	<Coords points="1550,423 1550,353 910,353 910,423"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="page-number">
+	<Coords points="786,400 786,360 683,360 683,400"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1766,433 1766,932 1687,932 1687,933 1531,933 1531,934 1374,934 1374,935 1218,935 1218,936 1061,936 1061,937 904,937 904,938 748,938 748,939 670,939 670,433"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1766,934 1766,1510 670,1510 670,941 749,941 749,940 905,940 905,939 1062,939 1062,938 1219,938 1219,937 1375,937 1375,936 1532,936 1532,935 1688,935 1688,934"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

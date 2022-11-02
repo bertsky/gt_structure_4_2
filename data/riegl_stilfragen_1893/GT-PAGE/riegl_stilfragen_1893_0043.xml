@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:23:22</Created>
+	<LastChange>2019-03-12T13:32:05</LastChange></Metadata>
+	<Page imageFilename="riegl_stilfragen_1893_0043.jpg" imageWidth="2301" imageHeight="2974" type="content">
+	<PrintSpace>
+	<Coords points="129,170 129,2870 1970,2870 1970,170"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r3" index="3"/>
+	<RegionRefIndexed regionRef="region_4" index="4"/>
+	<RegionRefIndexed regionRef="region_5" index="5"/>
+	<RegionRefIndexed regionRef="region_6" index="6"/>
+	<RegionRefIndexed regionRef="region_7" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="765,357 1211,357 1211,457 765,457"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1610,380 1711,380 1711,454 1610,454"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="344,1145 1638,1145 1638,1566 344,1566"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="662,1595 1323,1595 1323,1694 662,1694"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="footnote">
+	<Coords points="277,2332 1721,2332 1721,2576 277,2576"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="signature-mark">
+	<Coords points="307,2575 1483,2575 1483,2636 307,2636"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1744,457 1744,947 1701,947 1701,948 1615,948 1615,949 1529,949 1529,950 1444,950 1444,951 1358,951 1358,952 1272,952 1272,953 1187,953 1187,954 1101,954 1101,955 1015,955 1015,956 930,956 930,957 844,957 844,958 758,958 758,959 673,959 673,960 587,960 587,961 501,961 501,962 416,962 416,963 330,963 330,964 244,964 244,965 202,965 202,457"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1744,949 1744,2314 202,2314 202,967 245,967 245,966 331,966 331,965 417,965 417,964 502,964 502,963 588,963 588,962 674,962 674,961 759,961 759,960 845,960 845,959 931,959 931,958 1016,958 1016,957 1102,957 1102,956 1188,956 1188,955 1273,955 1273,954 1359,954 1359,953 1445,953 1445,952 1530,952 1530,951 1616,951 1616,950 1702,950 1702,949"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

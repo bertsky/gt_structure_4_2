@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:29</Created>
+	<LastChange>2019-03-05T16:16:50</LastChange></Metadata>
+	<Page imageFilename="roentgen_strahlen_1896_0006.jpg" imageWidth="2025" imageHeight="2750" type="content">
+	<PrintSpace>
+	<Coords points="1846,2656 1846,83 90,83 90,2656"/></PrintSpace>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1493,1000 1493,493 410,493 410,1000"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r1">
+	<Coords points="1126,1216 1126,1166 716,1166 716,1216"/></SeparatorRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1453,1690 1453,1406 476,1406 476,1690"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="1223,2150 1223,2096 766,2096 766,2150"/></SeparatorRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1610,2410 1610,2206 300,2206 300,2410"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1630,2463 1630,2386 1390,2386 1390,2463"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

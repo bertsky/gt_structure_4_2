@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:22:53</Created>
+	<LastChange>2019-03-12T13:48:42</LastChange></Metadata>
+	<Page imageFilename="ranke_paepste03_1836_0035.jpg" imageWidth="1919" imageHeight="2748" type="content">
+	<PrintSpace>
+	<Coords points="0,2600 0,246 1350,246 1350,2600"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="26,1706 1131,1706 1131,1911 26,1911"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1110,510 1110,450 1043,450 1043,510"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="860,503 860,426 300,426 300,503"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1106,1700 1106,533 56,533 56,1700"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1135,1910 1135,2195 1081,2195 1081,2194 972,2194 972,2193 863,2193 863,2192 754,2192 754,2191 645,2191 645,2190 537,2190 537,2189 428,2189 428,2188 319,2188 319,2187 210,2187 210,2186 101,2186 101,2185 46,2185 46,1910"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="footnote">
+	<Coords points="100,2187 100,2188 209,2188 209,2189 318,2189 318,2190 427,2190 427,2191 536,2191 536,2192 644,2192 644,2193 753,2193 753,2194 862,2194 862,2195 971,2195 971,2196 1080,2196 1080,2197 1135,2197 1135,2335 46,2335 46,2187"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:41</Created>
+	<LastChange>2019-03-05T16:21:50</LastChange></Metadata>
+	<Page imageFilename="rossmaessler_suesswasseraquarium_1857_0051.jpg" imageWidth="2123" imageHeight="2949" type="content">
+	<PrintSpace>
+	<Coords points="1789,2757 1789,207 89,207 89,2757"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/>
+	<RegionRefIndexed regionRef="region_7" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="caption">
+	<Coords points="846,530 1008,530 1008,602 846,602"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="caption">
+	<Coords points="679,1483 1179,1483 1179,1569 679,1569"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="caption">
+	<Coords points="1180,1540 1320,1540 1320,1602 1180,1602"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" type="caption">
+	<Coords points="553,1550 698,1550 698,1606 553,1606"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="263,2279 933,2279 933,2478 263,2478"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="caption">
+	<Coords points="933,2346 1596,2346 1596,2474 933,2474"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_7" type="signature-mark">
+	<Coords points="1269,2473 1381,2473 1381,2514 1269,2514"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r0">
+	<Coords points="1439,1500 1439,571 446,571 446,1500"/></GraphicRegion>
+	<GraphicRegion id="r1">
+	<Coords points="1560,2360 1560,1614 292,1614 292,2360"/></GraphicRegion>
+	<TextRegion id="r2" type="header">
+	<Coords points="1060,510 1060,457 792,457 792,510"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords points="1553,528 1553,442 1460,442 1460,528"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

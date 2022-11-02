@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:12</Created>
+	<LastChange>2019-03-05T16:12:42</LastChange></Metadata>
+	<Page imageFilename="rein_japan02_1886_0495.jpg" imageWidth="2923" imageHeight="3132" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="caption">
+	<Coords points="290,513 1719,513 1719,585 290,585"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_2">
+	<Coords points="284,593 1722,593 1722,2743 284,2743"/></GraphicRegion>
+	<TextRegion id="region_3" type="caption">
+	<Coords points="750,2784 1241,2784 1241,2851 750,2851"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

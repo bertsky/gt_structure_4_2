@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:34</Created>
+	<LastChange>2019-03-05T16:18:19</LastChange></Metadata>
+	<Page imageFilename="roessig_oekonomie02_1782_0058.jpg" imageWidth="1803" imageHeight="2496" type="content">
+	<PrintSpace>
+	<Coords points="1802,2290 1802,248 672,248 672,2290"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote">
+	<Coords points="832,1029 1741,1029 1741,2126 832,2126"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#list_item" type="paragraph">
+	<Coords points="900,1329 1716,1329 1716,2052 900,2052"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="catch-word">
+	<Coords points="1560,2052 1714,2052 1714,2098 1560,2098"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="945,403 945,339 848,339 848,403"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1721,954 1721,430 842,430 842,954"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords points="1712,993 1712,948 1566,948 1566,993"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:23:29</Created>
+	<LastChange>2019-03-05T16:17:42</LastChange></Metadata>
+	<Page imageFilename="roentgen_strahlen_1896_0008.jpg" imageWidth="2025" imageHeight="2749" type="content">
+	<PrintSpace>
+	<Coords points="1863,2623 1863,96 70,96 70,2623"/></PrintSpace>
+	<NoiseRegion id="r0">
+	<Coords points="1123,360 1123,230 780,230 780,360"/></NoiseRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1483,1023 1483,486 370,486 370,1023"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1053,1193 1053,1153 810,1153 810,1193"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1440,1663 1440,1390 450,1390 450,1663"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1076,1870 1076,1900 686,1900 686,1870"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="1183,2166 1183,2116 696,2116 696,2166"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1570,2406 1570,2223 273,2223 273,2406"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r7" type="stamp">
+	<Coords points="823,1910 796,1910 776,1913 766,1926 756,1943 746,1956 743,1966 740,1976 736,1986 736,2050 740,2060 746,2070 760,2093 773,2106 790,2123 800,2130 820,2140 850,2153 860,2156 873,2163 903,2163 936,2166 973,2170 1016,2170 1033,2153 1043,2140 1043,2126 1046,2116 1053,2100 1063,2076 1063,2060 1066,2046 1066,1996 1056,1983 1046,1973 1030,1966 1020,1956 1010,1950 996,1946 980,1940 960,1936 930,1933 910,1923 883,1923 870,1916 860,1913 800,1913 790,1910"/></GraphicRegion></Page></PcGts>

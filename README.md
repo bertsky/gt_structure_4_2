@@ -92,147 +92,52 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
             </thead>
             <tbody>
                <tr>
-                  <td>raabe_sperlingsgasse_1857</td>
-                  <td>51</td>
+                  <td>rohr_julii_1718</td>
+                  <td>118</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>30</td>
                </tr>
                <tr>
-                  <td>raabe_postgeheimnisse_1803</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>riemann_teichbau_1798</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>reichart_landschatz02_1753</td>
+                  <td>124</td>
                   <td/>
                   <td/>
                   <td>2</td>
                   <td/>
                   <td/>
+                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td/>
+                  <td/>
+                  <td>28</td>
                </tr>
                <tr>
-                  <td>reichart_landschatz05_1754</td>
-                  <td>74</td>
+                  <td>richardson_clarissa01_1748</td>
+                  <td>70</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>rabener_sammlung03_1752</td>
-                  <td>72</td>
                   <td/>
                   <td/>
                   <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>reichart_landschatz01_1753</td>
-                  <td>120</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>rabener_sammlung04_1755</td>
-                  <td>78</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>rossmaessler_wald_1863</td>
-                  <td>69</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -244,46 +149,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>robert_griechische_1881</td>
-                  <td>58</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>reichart_landschatz07_1762</td>
-                  <td>67</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>pueckler_briefe02_1830</td>
-                  <td>45</td>
+                  <td>pueckler_briefe03_1831</td>
+                  <td>40</td>
                   <td/>
                   <td/>
                   <td/>
@@ -320,242 +187,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>pufendorf_bericht_1667</td>
-                  <td>78</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>puetter_staatsverfassung01_1786</td>
-                  <td>66</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ranke_reformation03_1840</td>
-                  <td>71</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ranke_reformation05_1843</td>
-                  <td>85</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>robins_artillerie_1745</td>
-                  <td>66</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>pueckler_briefe01_1830</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>raschdorff_hochbau_1880</td>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>reichart_landschatz03_1753</td>
-                  <td>96</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>reichart_landschatz04_1753</td>
-                  <td>111</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>pueckler_briefe04_1831</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>rost_schaefererzaelungen_1742</td>
-                  <td>94</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>roepell_polen_1876</td>
+                  <td>richardson_clarissa04_1749</td>
                   <td>63</td>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ramdohr_mahlerei02_1787</td>
-                  <td>77</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>16</td>
                   <td/>
                   <td/>
                   <td/>
@@ -567,11 +206,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>pufendorf_einleitung_1682</td>
-                  <td>141</td>
+                  <td>rein_japan02_1886</td>
+                  <td>137</td>
                   <td/>
                   <td/>
-                  <td>2</td>
+                  <td>29</td>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -583,7 +222,7 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td>40</td>
                </tr>
                <tr>
                   <td>rohr_einleitung_1728</td>
@@ -605,27 +244,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>24</td>
                </tr>
                <tr>
-                  <td>riemann_hypothesen_1867</td>
-                  <td>93</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>raabe_akten_1896</td>
-                  <td>42</td>
+                  <td>ranke_reformation02_1839</td>
+                  <td>82</td>
                   <td/>
                   <td/>
                   <td/>
@@ -643,71 +263,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>reinkingk_policey_1653</td>
-                  <td>99</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>ranke_reformation01_1839</td>
-                  <td>73</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>rossmaessler_suesswasseraquarium_1857</td>
-                  <td>92</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>roux_kampf_1881</td>
+                  <td>reichart_landschatz05_1754</td>
                   <td>74</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td/>
@@ -716,11 +279,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>22</td>
                </tr>
                <tr>
-                  <td>rosenkranz_aesthetik_1853</td>
-                  <td>49</td>
+                  <td>ranke_paepste01_1834</td>
+                  <td>66</td>
                   <td/>
                   <td/>
                   <td/>
@@ -757,11 +320,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>rabener_sammlung01_1751</td>
-                  <td>128</td>
+                  <td>rosenkranz_aesthetik_1853</td>
+                  <td>49</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>reimarus_blitze_1769</td>
+                  <td>101</td>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -773,11 +352,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
                </tr>
                <tr>
-                  <td>ranke_reformation04_1843</td>
-                  <td>82</td>
+                  <td>rossmaessler_wald_1863</td>
+                  <td>69</td>
                   <td/>
                   <td/>
                   <td/>
@@ -795,147 +377,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>richardson_clarissa08_1753</td>
-                  <td>71</td>
+                  <td>raabe_sperlingsgasse_1857</td>
+                  <td>51</td>
                   <td/>
                   <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
-                  <td>11</td>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>raabe_stopfkuchen_1891</td>
-                  <td>41</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>raabe_odfeld_1889</td>
-                  <td>42</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>richardson_clarissa04_1749</td>
-                  <td>63</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>richardson_clarissa05_1750</td>
-                  <td>70</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>roessig_oekonomie02_1782</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>roentgen_strahlen_1896</td>
-                  <td>35</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>1</td>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>puetter_staatsverfassung03_1787</td>
-                  <td>55</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
+                  <td>5</td>
                   <td/>
                   <td/>
                   <td/>
@@ -949,139 +398,6 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                <tr>
                   <td>ramdohr_mahlerei01_1787</td>
                   <td>83</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ranke_paepste03_1836</td>
-                  <td>101</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>reichart_landschatz02_1753</td>
-                  <td>124</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>richardson_clarissa07_1751</td>
-                  <td>123</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>ranke_paepste02_1836</td>
-                  <td>76</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>ranke_reformation02_1839</td>
-                  <td>82</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>rein_japan02_1886</td>
-                  <td>137</td>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>40</td>
-               </tr>
-               <tr>
-                  <td>reil_curmethode_1803</td>
-                  <td>57</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1118,27 +434,8 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>quantz_versuch_1752</td>
-                  <td>174</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>richardson_clarissa01_1748</td>
-                  <td>70</td>
+                  <td>reil_curmethode_1803</td>
+                  <td>57</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1156,33 +453,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>rohr_julii_1718</td>
-                  <td>118</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>6</td>
+                  <td>ramdohr_mahlerei02_1787</td>
+                  <td>77</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>30</td>
-               </tr>
-               <tr>
-                  <td>richardson_clarissa02_1748</td>
-                  <td>79</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>7</td>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1194,8 +472,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>roessig_oekonomie01_1781</td>
-                  <td>80</td>
+                  <td>richardson_clarissa03_1749</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>pueckler_briefe01_1830</td>
+                  <td>41</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1232,14 +529,280 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>26</td>
                </tr>
                <tr>
-                  <td>puetter_staatsverfassung02_1786</td>
-                  <td>65</td>
+                  <td>pufendorf_einleitung_1691</td>
+                  <td>95</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>pufendorf_bericht_1667</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>reinkingk_policey_1653</td>
+                  <td>99</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>ranke_paepste02_1836</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>rabener_sammlung01_1751</td>
+                  <td>128</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>rein_japan01_1881</td>
+                  <td>51</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>roessig_oekonomie02_1782</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>riemann_teichbau_1798</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>roessig_oekonomie01_1781</td>
+                  <td>80</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>ramdohr_mahlerei03_1787</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>raabe_stopfkuchen_1891</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>puetter_staatsverfassung01_1786</td>
+                  <td>66</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
                   <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>richardson_clarissa05_1750</td>
+                  <td>70</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>ranke_reformation04_1843</td>
+                  <td>82</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>raschdorff_hochbau_1880</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1289,8 +852,46 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>rosegger_waldschulmeister_1875</td>
-                  <td>43</td>
+                  <td>riemann_hypothesen_1867</td>
+                  <td>93</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>rabener_sammlung03_1752</td>
+                  <td>72</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>raabe_odfeld_1889</td>
+                  <td>42</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1308,23 +909,42 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>ramdohr_mahlerei03_1787</td>
-                  <td>83</td>
+                  <td>roentgen_strahlen_1896</td>
+                  <td>35</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>1</td>
+                  <td/>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>pufendorf_einleitung_1682</td>
+                  <td>141</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
                </tr>
                <tr>
                   <td>rollenhagen_reysen_1603</td>
@@ -1346,14 +966,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>24</td>
                </tr>
                <tr>
-                  <td>richardson_clarissa06_1750</td>
-                  <td>65</td>
+                  <td>roux_kampf_1881</td>
+                  <td>74</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>16</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1365,11 +985,220 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>rein_japan01_1881</td>
-                  <td>51</td>
+                  <td>robins_artillerie_1745</td>
+                  <td>66</td>
                   <td/>
                   <td/>
-                  <td>8</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>richardson_clarissa07_1751</td>
+                  <td>123</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>ranke_paepste03_1836</td>
+                  <td>101</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>reichart_landschatz07_1762</td>
+                  <td>67</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>reichart_landschatz01_1753</td>
+                  <td>120</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>ramler_oden_1767</td>
+                  <td>69</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>rabener_sammlung04_1755</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>reichart_landschatz04_1753</td>
+                  <td>111</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>richardson_clarissa02_1748</td>
+                  <td>79</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>rost_schaefererzaelungen_1742</td>
+                  <td>94</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>robert_griechische_1881</td>
+                  <td>58</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>ranke_reformation01_1839</td>
+                  <td>73</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1403,8 +1232,27 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>22</td>
                </tr>
                <tr>
-                  <td>pueckler_briefe03_1831</td>
-                  <td>40</td>
+                  <td>reichart_landschatz03_1753</td>
+                  <td>96</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>rosegger_waldschulmeister_1875</td>
+                  <td>43</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1422,27 +1270,30 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>richardson_clarissa03_1749</td>
-                  <td>76</td>
+                  <td>richardson_clarissa08_1753</td>
+                  <td>71</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>11</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>17</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>reimarus_blitze_1769</td>
-                  <td>101</td>
+                  <td>puetter_staatsverfassung03_1787</td>
+                  <td>55</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -1454,29 +1305,45 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>rabener_sammlung02_1751</td>
-                  <td>113</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
+                  <td>richardson_clarissa06_1750</td>
+                  <td>65</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
+                  <td>16</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td>25</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>pueckler_briefe02_1830</td>
+                  <td>45</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>rohde_psyche_1894</td>
@@ -1498,8 +1365,14 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>pufendorf_einleitung_1691</td>
-                  <td>95</td>
+                  <td>ranke_reformation03_1840</td>
+                  <td>71</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1508,17 +1381,11 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>24</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>ranke_paepste01_1834</td>
-                  <td>66</td>
+                  <td>ranke_reformation05_1843</td>
+                  <td>85</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1536,11 +1403,30 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>ramler_oden_1767</td>
-                  <td>69</td>
+                  <td>raabe_akten_1896</td>
+                  <td>42</td>
                   <td/>
                   <td/>
-                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>rossmaessler_suesswasseraquarium_1857</td>
+                  <td>92</td>
+                  <td/>
+                  <td/>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td>7</td>
@@ -1552,7 +1438,121 @@ https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
                   <td/>
                   <td/>
                   <td/>
-                  <td>26</td>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>rabener_sammlung02_1751</td>
+                  <td>113</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>puetter_staatsverfassung02_1786</td>
+                  <td>65</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>roepell_polen_1876</td>
+                  <td>63</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>raabe_postgeheimnisse_1803</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>pueckler_briefe04_1831</td>
+                  <td>41</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>quantz_versuch_1752</td>
+                  <td>174</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
                </tr>
             </tbody>
          </table>

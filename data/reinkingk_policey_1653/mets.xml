@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, A: 189.16.1 Theol.</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/189-16-1-theol/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/189-16-1-theol/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

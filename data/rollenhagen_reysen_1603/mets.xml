@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, H: P 528.4° Helmst.</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/170-12-hist-1s/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/170-12-hist-1s/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
